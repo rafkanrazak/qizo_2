@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "297156640459",
+    "project_id": "qizo2-c8f76",
+    "storage_bucket": "qizo2-c8f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297156640459:android:e1f0aa3616aae92f89254e",
+        "android_client_info": {
+          "package_name": "com.qizo_2.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297156640459-5p57shsu8rq5u8u92pschr3agj668jba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwXmq0GrWWjpFeh2rDIjdpbELbhtw6T80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297156640459-5p57shsu8rq5u8u92pschr3agj668jba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297156640459-0s1qii0euvfjlhq73l6vmcmtvncqcorf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qizo2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
